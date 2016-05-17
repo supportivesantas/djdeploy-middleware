@@ -1,0 +1,14 @@
+node_modules
+.eslintrc.js
+.eslintrc.json
+
+# VS Code
+typings
+typings.json
+jsconfig.json
+
+# OSX Specific
+**/.DS_Store
+public/build
+npm-debug.log
+dump.rdb
