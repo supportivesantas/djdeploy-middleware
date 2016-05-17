@@ -1,0 +1,22 @@
+{
+  "name": "lib-dj-deploy",
+  "version": "0.0.1",
+  "description": "Express middleware for reporting statistics to DJ Deploy",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "request-promise": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "statistics",
+    "middleware",
+    "DJ Deploy"
+  ],
+  "author": "Jonathan Mah",
+  "license": "ISC"
+}
