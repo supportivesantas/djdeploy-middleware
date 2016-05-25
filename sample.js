@@ -8,7 +8,7 @@ app.use(libstats.initClient(app, {
   name: 'test',                   /* your app name                         */
   port: 8080,                     /* your app port number                  */
   interval: 600000,               /* suggested reporting interval: 10 min) */
-  url: 'http://www.djdeploy.com/stats'
+  url: 'https://www.djdeploy.com/stats'
 }));
 
 app.get('/*', function (req, res) {
