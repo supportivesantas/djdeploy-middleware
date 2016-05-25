@@ -1,6 +1,6 @@
 {
   "name": "lib-dj-deploy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware for reporting statistics to DJ Deploy",
   "main": "index.js",
   "dependencies": {
